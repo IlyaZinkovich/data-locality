@@ -1,4 +1,4 @@
-package io.github.ilyazinkovich.reliable.communication.remote.incentives;
+package io.github.ilyazinkovich.reliable.communication.synchronous.incentives;
 
 class GiveBonus {
 

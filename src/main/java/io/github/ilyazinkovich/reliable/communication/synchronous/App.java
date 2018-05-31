@@ -1,4 +1,4 @@
-package io.github.ilyazinkovich.reliable.communication.remote;
+package io.github.ilyazinkovich.reliable.communication.synchronous;
 
 import com.google.gson.Gson;
 import org.springframework.boot.SpringApplication;

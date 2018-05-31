@@ -1,8 +1,8 @@
-package io.github.ilyazinkovich.reliable.communication.remote.incentives;
+package io.github.ilyazinkovich.reliable.communication.synchronous.incentives;
 
-import static io.github.ilyazinkovich.reliable.communication.remote.incentives.CourierPerformance.HIGH;
-import static io.github.ilyazinkovich.reliable.communication.remote.incentives.CourierPerformance.NORMAL;
-import static io.github.ilyazinkovich.reliable.communication.remote.incentives.CourierPerformance.OUTSTANDING;
+import static io.github.ilyazinkovich.reliable.communication.synchronous.incentives.CourierPerformance.HIGH;
+import static io.github.ilyazinkovich.reliable.communication.synchronous.incentives.CourierPerformance.NORMAL;
+import static io.github.ilyazinkovich.reliable.communication.synchronous.incentives.CourierPerformance.OUTSTANDING;
 import static org.springframework.http.HttpStatus.ACCEPTED;
 import static org.springframework.http.HttpStatus.OK;
 

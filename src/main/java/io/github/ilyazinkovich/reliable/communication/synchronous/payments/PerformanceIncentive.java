@@ -1,8 +1,8 @@
-package io.github.ilyazinkovich.reliable.communication.remote.incentives;
+package io.github.ilyazinkovich.reliable.communication.synchronous.payments;
 
 class PerformanceIncentive {
 
-  private final Double incentive;
+  final Double incentive;
 
   PerformanceIncentive(final Double incentive) {
     this.incentive = incentive;

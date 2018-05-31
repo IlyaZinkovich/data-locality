@@ -1,4 +1,4 @@
-package io.github.ilyazinkovich.reliable.communication.remote.payments;
+package io.github.ilyazinkovich.reliable.communication.synchronous.payments;
 
 import static org.springframework.http.HttpStatus.ACCEPTED;
 
