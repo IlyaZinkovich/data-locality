@@ -25,7 +25,7 @@ public class IncentivesApi {
   @PostMapping("/performance/{courierId}")
   public ResponseEntity updatePerformance(
       @PathVariable final Long courierId, @RequestBody final UpdatePerformance command) {
-    couriersPerformance.put(courierId, command.performance());
+    couriersPerformance.put(courierId, command.performance);
     return new ResponseEntity(ACCEPTED);
   }
 
