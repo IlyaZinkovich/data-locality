@@ -1,4 +1,4 @@
-package io.github.ilyazinkovich.data.locality.remote.incentives;
+package io.github.ilyazinkovich.reliable.communication.remote.incentives;
 
 class UpdatePerformance {
 

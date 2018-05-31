@@ -1,4 +1,4 @@
-package io.github.ilyazinkovich.data.locality.remote.incentives;
+package io.github.ilyazinkovich.reliable.communication.remote.incentives;
 
 import static org.springframework.http.HttpStatus.ACCEPTED;
 import static org.springframework.http.HttpStatus.OK;

@@ -1,4 +1,4 @@
-package io.github.ilyazinkovich.data.locality.remote;
+package io.github.ilyazinkovich.reliable.communication.remote;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
